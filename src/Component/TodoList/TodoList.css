@@ -1,0 +1,18 @@
+.TodoList {
+    width: 100%;
+    text-align: center;
+    margin-top: 15px;
+    color: white;
+    font-weight: 400;
+    font-size: 20px;
+}
+
+.TodoList-Parent{
+    margin-top: 15px;
+    list-style-type: none;
+    width: 80%;
+}
+
+TodoList-Form{
+    margin-top: 20px;
+}

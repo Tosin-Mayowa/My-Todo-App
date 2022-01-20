@@ -1,5 +1,21 @@
 .App {
   text-align: center;
+  background-color: #ff0022;
+  width: 40%;
+  margin: 0 auto;
+}
+
+.App-heading {
+  color: #fff;
+  text-transform: capitalize;
+  font-weight: 600;
+}
+
+.App-hr {
+  width: 50%;
+  margin-top: -20px;
+  height: 5px;
+  background-color: #011627;
 }
 
 .App-logo {
@@ -32,6 +48,7 @@
   from {
     transform: rotate(0deg);
   }
+
   to {
     transform: rotate(360deg);
   }
